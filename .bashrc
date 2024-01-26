@@ -14,6 +14,7 @@ alias p3='python3'
 # git
 alias gaa='git add .'
 alias ga='git add'
+alias gf='git fetch'
 alias gp='git push'
 alias gpll='git pull'
 alias gc='git commit -m'
