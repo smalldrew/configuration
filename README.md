@@ -1,1 +1,1 @@
-my vim and tmux configuration
+configuration files and whatnot
